@@ -1,5 +1,6 @@
 What is Application State?
 ---
+Live view [here](https://movie-search-tau-one.vercel.app/)
 * [x] Build a Movie Search App with Vanilla JS
   * [x] Get movie search term from user
   * [x] fetch API with search term
